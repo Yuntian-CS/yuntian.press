@@ -1,0 +1,4 @@
+theme = 'hugo-xmin'
+baseURL = 'http://yuntian.press'
+languageCode = 'en-us'
+title = 'My blog'
